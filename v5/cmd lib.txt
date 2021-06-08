@@ -1,0 +1,4 @@
+cd /d E:\Job\Prj\StockRobot\Code\Code\v5
+pip install requests
+pip install pandas
+pip install progress
